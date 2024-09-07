@@ -1,0 +1,21 @@
+/* CropTop.css */
+.modernbutton {
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 18px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    position: absolute; /* Changed from relative to absolute */
+    right: 10px;        /* Position it 10px from the right edge */
+            /* Position it 10px from the top edge */
+    display: inline-flex; /* Ensure the button content is centered */
+    justify-content: center;
+    align-items: center;
+    top: 110px;
+    background-color: #00070e;
+  }
+  
+  .modernbutton:hover {
+    background-color: #086dd2;
+    color: rgb(0, 3, 6);
+  }
+  

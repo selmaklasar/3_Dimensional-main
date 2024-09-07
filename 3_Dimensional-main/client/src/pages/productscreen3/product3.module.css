@@ -1,0 +1,40 @@
+
+@media screen and(min-width: 320px){
+    .buttonbuy{
+       right: 32px;
+    }
+    .canvas{
+        width: 218px;
+        
+    height: 117px;
+    }
+    .buttonbuy{
+        right: 31px;
+    }
+}
+
+@media screen and(min-width: 300px){
+    .buttonbuy{
+       right: 32px;
+    }
+    .canvas{
+        width: 221px;
+    height: 117px;
+    }
+    .buttonbuy{
+        right: 31px;
+    }
+}
+@media screen and(max-width: 900px){
+
+    .canvas{
+        width: 277px;
+    height: 246px;
+    }
+.buttonprev  .buttonNext{
+    margin-left: 377px;
+
+}
+
+}
+

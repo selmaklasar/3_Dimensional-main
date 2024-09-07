@@ -1,0 +1,24 @@
+
+
+services:
+  server:
+    image: dilus1322747/client
+ 
+    ports:
+      - "3000:3000"
+   
+    
+  
+
+  client:
+    image: dilus1322747/server
+  
+    ports:
+      - "8080:8080"
+    
+
+ 
+
+
+
+
